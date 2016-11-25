@@ -1,2 +1,2 @@
 # Mixins
-A list of mixins I often use
+The Mixins and Var's I often use.
